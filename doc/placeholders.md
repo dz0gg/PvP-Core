@@ -10,5 +10,6 @@ trappedffa_kills | The player's kill count
 trappedffa_deaths | The player's death count
 trappedffa_streak | The player's current streak
 trappedffa_maxstreak | The player's highest streak
-trappedffa_elo | The ELO player's ELO score 
-trappedffa_ratio | The player's kill/death ratio
+trappedffa_points | The player's points count
+trappedffa_prestige | The player's prestige displayname
+trappedffa_ip | The server ip form "config.yml"
