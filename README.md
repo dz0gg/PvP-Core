@@ -9,7 +9,7 @@ This plugin will gives you new gamemode "**Free For All**" with custom **ScoreBo
 ## Features
 
 - Records kills, deaths, max streaks, current streak, kill/death 
-- 
+
 ### Options
 
 - Over then 7 files you can customize the game like you want
@@ -28,7 +28,7 @@ This plugin will gives you new gamemode "**Free For All**" with custom **ScoreBo
 
 - [spigotmc.org]
 - [Discord - for licence key](https://discord.gg/Wn3hxpvZ8K)
-- 
+
 ***
 
 ## How to install
