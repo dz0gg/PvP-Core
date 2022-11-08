@@ -12,4 +12,4 @@ trappedffa_streak | The player's current streak
 trappedffa_maxstreak | The player's highest streak
 trappedffa_points | The player's points count
 trappedffa_prestige | The player's prestige displayname
-trappedffa_ip | The server ip form "config.yml"
+trappedffa_ip | The server ip from "config.yml"
