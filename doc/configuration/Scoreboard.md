@@ -1,6 +1,6 @@
 # Configuration File
 
-This is the default "Messages.yml" file.
+This is the default "Scoreboard.yml" file.
 
     # === [ Settings ] ===
 	  Enable: true
