@@ -11,9 +11,15 @@ This is the default "config.yml" file.
     DisableHunger: true
     removePlayerDrops: true
     ChatFormat: '&e%points% &8┃ %prestige% &8┃ %player% &8» %message%'
+    HealOnKill: true
+    ArrowOnKill:
+      Enable: true
+      amount: 1
     maxCoins: 20
     minCoins: 10
     Spawn:
       enabled: true
       Cooldown: 5
+    
+        
     
