@@ -7,6 +7,7 @@ Command | Definition
 ------------- | -------------
 /FFA | Author Information
 /FFA Help | Commands List
+/FFA Reload | Reload all config files
 /FFA setSpawn | Sets Player Spawn Point
 /Perks | Open the perks selector menu
 /Kits | Display the kits selector menu
