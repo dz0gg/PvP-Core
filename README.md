@@ -12,7 +12,7 @@ This plugin will gives you new gamemode "**Free For All**" with custom **ScoreBo
 
 ### Options
 
-- Over then 7 files you can customize the game like you want
+- Over than 7 files you can customize the game like you want
 - Stats System
 - Simple to use
 - Player Profile
