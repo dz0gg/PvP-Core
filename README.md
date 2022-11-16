@@ -27,7 +27,7 @@ This plugin will gives you new gamemode "**Free For All**" with custom **ScoreBo
 ## Downloads
 
 - [spigotmc.org]
-- [Discord - for licence key](https://discord.gg/Wn3hxpvZ8K)
+- [Discord - for licence key](https://discord.gg/XV2Ysd5rEc)
 
 ***
 
