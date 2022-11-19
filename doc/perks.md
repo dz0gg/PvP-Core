@@ -26,9 +26,7 @@ Cost | The amount of money required to buy the perk
 slot | Perk slot in Perk selector menu
 PotionType | The type of the potion
 duration | The duration of the potion
-
 PerkEvent | When the perk should be activated?
-
 Target | The player who will get the Potion
 
 *** 
