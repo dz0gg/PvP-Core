@@ -13,7 +13,6 @@ This plugin contain kits, scoreboard, spawn system, custom messages and more!
 ### Options
 
 • Sql & MySQL support
-
 • Player stats system
 
 • Custom kits system
