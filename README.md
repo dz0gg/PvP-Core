@@ -1,46 +1,47 @@
-# TrappedFFA
+# PvP Core
 
-**Add new gamemode to your server, with many special features**
+**Add a new gamemode to your server with many special features**
 
-This plugin will gives you new gamemode "**Free For All**" with custom **ScoreBoard**,**Perks**,**Kits**,**Prestiges** and many more 
+This plugin contain kits, scoreboard, spawn system, custom messages and more! 
 
 ***
 
 ## Features
 
-- Records kills, deaths, max streaks, current streak, kill/death 
+• Records kills, deaths, max streaks, current streak, kill/death and points 
 
 ### Options
 
-- Over than 7 files you can customize the game like you want
-- Stats System
-- Simple to use
-- Player Profile
+• Sql & MySQL support
+• Player stats system
+• Custom kits system
+• Custom permissions
+• Custom perks system
+• Coins system
+• Custom scoreboard
+• Custom messages
+• Custom prestige system 
+• custom points system
 
 ***
 
 ## Dependencies
-
-- Spigot 1.8 and up
-- PlaceholderAPI
-- Vault (with an eco plugin)
+• Spigot 1.8 higher
+• [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+• [Vault](https://www.spigotmc.org/resources/vault.34315/)
+• [Economy plugin such as EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
 ## Downloads
-
-- [spigotmc.org]
-- [Discord - for licence key](https://discord.gg/XV2Ysd5rEc)
-
+• [BuiltByBit](https://builtbybit.com/resources/pvp-core.25965/)
+• [Polymart](https://polymart.org/resource/pvp-core.3255)
 ***
 
 ## How to install
-
-- Stop your server
-- Place jar in plugins folder
-- Run a first time to create config
-- Configure config and settings
-- Reboot again, done!
+• Purchase PvP-Core.jar
+• Stop your server
+• Place the jar file in plugins folder
+• Run for the first time to create a config file
+• Paste your license key
+• Configure config and settings
+• Reboot again, done!
 
 ***
-
-## Documentation
-
-**SOON**
