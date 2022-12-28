@@ -13,14 +13,23 @@ This plugin contain kits, scoreboard, spawn system, custom messages and more!
 ### Options
 
 • Sql & MySQL support
+
 • Player stats system
+
 • Custom kits system
+
 • Custom permissions
+
 • Custom perks system
+
 • Coins system
+
 • Custom scoreboard
+
 • Custom messages
+
 • Custom prestige system 
+
 • custom points system
 
 ***
